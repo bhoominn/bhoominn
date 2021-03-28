@@ -6,3 +6,5 @@
 [![Skype Badge](https://img.shields.io/badge/-bhoominnaik-blue?style=flat&logo=Skype&logoColor=white&link=skype:bhoominnaik)](skype:bhoominnaik)
 [![Gmail Badge](https://img.shields.io/badge/-bhoominn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bhoominn@gmail.com)](mailto:bhoominn@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=bhoominn.bhoominn)
+
+<a href="https://www.buymeacoffee.com/bhoominn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bhoominn&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
