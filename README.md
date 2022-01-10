@@ -1,5 +1,7 @@
 ## ❤ Open Source | Love to help others | Tech Enthusiast | Troubleshooter
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/bhoominnaik?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbhoominnaik&screen_name=bhoominnaik)
+
 ### I am an avid tech reader and explorer and I love almost all things related to technology. I just love to know what's happening around in the tech industry.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Bhoomin%20Naik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhoomin-naik/)](https://www.linkedin.com/in/bhoomin-naik/)
