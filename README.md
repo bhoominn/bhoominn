@@ -22,5 +22,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=bhoominn" />
+<img src="https://github-readme-stats.vercel.app/api?username=bhoominn&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoominn" />
