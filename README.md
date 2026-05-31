@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bhoominn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bhoominn@gmail.com)](mailto:bhoominn@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=bhoominn.bhoominn)
 
-<a href="https://www.buymeacoffee.com/bhoominn"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bhoominn&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/bhoominn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ### Languages and Tools:
@@ -24,7 +24,4 @@
 <br/>
 
 ### Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoominn&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=bhoominn" />
-<img src="https://github-profile-trophy.vercel.app/?username=bhoominn" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhoominn&theme=vue" />
